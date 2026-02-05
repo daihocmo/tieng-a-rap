@@ -1,6 +1,6 @@
-# Chào!
-
 ![welcome](img/study.jpg){:  style="display: block; margin: 0 auto; max-width:50%; height:auto;" } 
+
+# Chào!
 
 Đây là trang sẽ hướng dẫn bạn cách tự học Tiếng Ả Rập chuẩn.
 

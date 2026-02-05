@@ -7,8 +7,11 @@ repo_url: https://github.com/daihocmo/tieng-a-rap
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn': 'guide.md'
-  - 'Tài nguyên': 'resources.md'
+  - 'Hướng dẫn': 
+    - 'Tự học Tiếng Ả Rập': 'guide.md'
+  - 'Tài nguyên': 
+    - 'Tài nguyên tự học': 'resources.md'
+    - 'Nội dung Tiếng Ả Rập': 'recommendations.md'
  
 theme:
   palette:
