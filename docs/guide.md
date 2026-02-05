@@ -31,8 +31,6 @@ Mình sẽ tập trung vào những nền tảng cơ bản của việc học Ti
 
 ## Từ vựng
 
-![](img/tu-dien.png)
-
 Anki là một trong những ứng dụng ôn tập từ vựng mình _yêu thích nhất_. Đây là app flashcard cho phép bạn dùng bộ thẻ có sẵn hoặc tự tạo của riêng mình! ([Bấm vào đây](https://youtu.be/6BJgxHC3Yuc?si=Bsxo_8IPK9Wy7Go2) để tìm hiểu thêm về Anki và cách sử dụng).
 
 ![](img/anki-example1.png)
