@@ -1,4 +1,4 @@
-![welcome](img/study.png){:  style="display: block; margin: 0 auto; max-width:80%; height:auto;" } 
+![welcome](img/study.png){:  style="display: block; margin: 0 auto; max-width:50%; height:auto;" } 
 
 # Chào!
 

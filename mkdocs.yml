@@ -9,6 +9,9 @@ nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn': 
     - 'Tự học Tiếng Ả Rập': 'guide.md'
+  - 'Yomitan':
+    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
+    - 'Mining với Anki và Yomitan': 'mining.md'
   - 'Tài nguyên': 
     - 'Tài nguyên tự học': 'resources.md'
     - 'Nội dung Tiếng Ả Rập': 'recommendations.md'
