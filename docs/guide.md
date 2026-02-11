@@ -75,7 +75,7 @@ Anki là một trong những ứng dụng ôn tập từ vựng mình _yêu thí
 
 ![](img/anki-example1.png)
 
-Mình sẽ dùng [**Arap1000**]() trên Anki để học 1.000 từ phổ biến nhất trong truyền thông Tiếng Ả Rập, rồi chuyển sang sentence mining (hay còn gọi là _đào câu_, đọc hướng dẫn về [Sentence Mining](/ngoai-ngu/sentence-mining/) để biết thêm chi tiết). Đây là kỹ thuật lấy từ và câu mới trực tiếp từ tài nguyên immersion bằng công cụ như [ASBplayer](https://chromewebstore.google.com/detail/asbplayer-language-learni/hkledmpjpaehamkiehglnbelcpdflcab?hl=en) ([Bấm vào đây](https://youtu.be/KxLRp1yd8Ro?si=cDGjOWdTygdl5ZpU) để xem hướng dẫn sentence mining bằng ASBplayer).
+Mình sẽ dùng [**Arap1000**](https://ankiweb.net/shared/info/1608521724) trên Anki để học 1.000 từ phổ biến nhất trong truyền thông Tiếng Ả Rập, rồi chuyển sang sentence mining (hay còn gọi là _đào câu_, đọc hướng dẫn về [Sentence Mining](/ngoai-ngu/sentence-mining/) để biết thêm chi tiết). Đây là kỹ thuật lấy từ và câu mới trực tiếp từ tài nguyên immersion bằng công cụ như [ASBplayer](https://chromewebstore.google.com/detail/asbplayer-language-learni/hkledmpjpaehamkiehglnbelcpdflcab?hl=en) ([Bấm vào đây](https://youtu.be/KxLRp1yd8Ro?si=cDGjOWdTygdl5ZpU) để xem hướng dẫn sentence mining bằng ASBplayer).
 
 Một điều mà cá nhân mình gợi ý là dừng sentence mining sau 2-3.000 thẻ. Làm thẻ Anki rất dễ gây nghiện, và bạn có thể tạo đến 10.000 thẻ hoặc hơn. Nhưng thực tế, có quá nhiều thẻ như vậy _không_ hữu ích. Bạn chỉ cần số lượng từ phổ biến thường gặp, thay vì nhồi nhét tất cả.
 
